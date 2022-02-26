@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Andre-Bigaran">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&theme=buely&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&langs_count=7&theme=buely"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreBStudent&show_icons=true&theme=buely&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBStudent&layout=compact&langs_count=7&theme=buely"/>
   </a>
 </div>
 
